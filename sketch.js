@@ -19,7 +19,7 @@ function draw() {
 
   randomSeed(99);
 
-stroke (255);
+stroke (255, 30, 50);
 noFill();
 
     // Draw a dot at each point.
